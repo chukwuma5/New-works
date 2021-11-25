@@ -46,12 +46,14 @@ This work is created for the purpose of practising (HTML & CSS) complex flex-box
   ## My Challanges and lessons
    Learnt how to re-size pictures with pixcels firstly, used my fontsizes well, Used my pixcels for nice elements that will remain permanent in size as the work goes on. HTML was fun working with.
 
-   <img src="mobjuice.png">
 
    ## Installations
    -For those Farmiliar with Git-hub you can clone the repo and pull to your local workplace to view.
+   
    -For those who want to check the work from the site, click here [https://app.netlify.com/sites/thirsty-mcnulty-889017], to view Thank you once again.
+   
    -For those who want to view the first file, click here [https://jmp.sh/fvvdS8B], to view Thank you once again.
+   
    -For those who want to view the second file, click here [https://jmp.sh/Jyd3LKY], to view Thank you once again.
 
 
